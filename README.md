@@ -2,15 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang&fontSize=60&fontAlign=30&fontAlignY=30&fontColor=FFFFFF)
 
-<center>
+<div align="center">
     <h3>
         My stack
     </h3>
     <img src="https://img.shields.io/badge/JAVA-3a75b0?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
-    </a>
-</center>
+</div>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang)
 
 
 
@@ -18,6 +18,12 @@
 
 
 ![hgchang1's github stats](https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true)
+
+![Hangeol-Chang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangeol-Chang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
+
+
+
 
 
 
