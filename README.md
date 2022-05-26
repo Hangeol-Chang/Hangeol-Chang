@@ -10,7 +10,15 @@
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
 </div>
 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang)
+
+<div align="center">
+    ![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang)<br>
+    ![hgchang1's github stats](https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true)
+    <br>
+    ![Hangeol-Chang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangeol-Chang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1)](https://solved.ac/hgchang1/)
+</div>
 
 
 
@@ -23,7 +31,7 @@
 
 
 
-
+</center>
 
  
 
