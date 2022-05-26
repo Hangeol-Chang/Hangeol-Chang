@@ -19,7 +19,7 @@
 
 ![hgchang1's github stats](https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true)
 
-![Hangeol-Chang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangeol-Chang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![Hangeol-Chang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangeol-Chang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1)](https://solved.ac/hgchang1/)
 
 
 
