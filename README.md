@@ -71,7 +71,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hangeol-Chang&theme=nord_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hangeol-Chang&theme=nord_dark&exclude=)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hangeol-Chang&theme=nord_dark&exclude=)
 
 
 ![hgchang1's github stats](https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true)
