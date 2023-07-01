@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang🎨🎮🚘&fontSize=60&fontAlign=30&fontAlignY=30&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang🎨🎮🚘&fontSize=60&fontAlign=50&fontAlignY=30&fontColor=FFFFFF)
 
 <!--
 
