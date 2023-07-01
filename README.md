@@ -68,12 +68,14 @@
 </div>
 
 ----
-![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang)
-
+<center>
+![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang&column=7)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hangeol-Chang&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hangeol-Chang&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hangeol-Chang&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hangeol-Chang&theme=nord_dark)![Hangeol-Chang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangeol-Chang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1)](https://solved.ac/hgchang1/)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hangeol-Chang&theme=nord_dark)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1)](https://solved.ac/hgchang1/)
+</center>
+
+![Hangeol-Chang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangeol-Chang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 <!--
 ![hgchang1's github stats](https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true)
@@ -82,7 +84,6 @@
 
 
 
-</center>
 
  
 
