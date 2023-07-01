@@ -27,11 +27,19 @@
 <div align="left">
 	<h3>My stack</h3>
 	<h4>Languages</h4>
- 		<img src="https://img.shields.io/badge/JAVA-3a75b0?style=for-the-badge&logo=Java&logoColor=white"/>
-		<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+		<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ 		<img src="https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=Java&logoColor=white"/>
+		<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white"/>
+		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=python&logoColor=white"/>
 	<h4>Web</h4>
 	<div>
-		<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+		<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=coil&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+		<br>
+		<img src="https://img.shields.io/badge/Three-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+		<br>
 		<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white"/>
 	</div>
