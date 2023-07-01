@@ -68,7 +68,7 @@
 </div>
 
 ----
-![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang&column=8)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hangeol-Chang&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hangeol-Chang&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hangeol-Chang&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hangeol-Chang&theme=nord_dark)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1)](https://solved.ac/hgchang1/)
