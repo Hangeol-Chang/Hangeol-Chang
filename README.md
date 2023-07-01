@@ -19,7 +19,7 @@
 	<h3>links</h3>
     	<a href="https://www.youtube.com/channel/UCFHxE7grCP07kWQqkZYuf9A" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
     	<a href="https://www.instagram.com/hihangeol/" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    	<a href="https://hihangoel.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+    	<a href="https://hangeol-chang.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-009DB1?style=for-the-badge&logo=planet&logoColor=white"/></a>
 	<a href="https://hihangoel.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
     <a href="https://www.acmicpc.net/user/hgchang1" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-077cc6?style=for-the-badge&logo=Accenture&logoColor=white"/></a>
     <a href="https://steamcommunity.com/id/hgchang1/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"/></a>
