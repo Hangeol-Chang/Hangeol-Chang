@@ -9,6 +9,7 @@
 
 #### background
 🕍 경희대학교 기계공학과
+<br>
 🌌 SSAFY 7기 서울캠퍼스
 
 
