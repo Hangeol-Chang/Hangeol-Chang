@@ -38,23 +38,22 @@
 	</div>
 	<h4>Web</h4>
 	<div>
-		<h5>Frontend</h5>
 		<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=coil&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white"/>
-		<br><br>
+		<br>
 		<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Three-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+		<img src="https://img.shields.io/badge/React-Spring-000000?style=for-the-badge&logo=spring_creators&logoColor=white"/>
 		<br><br>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 		<br><br>
-		<h5>Backend</h5>
 	</div>
 	<h4>Management</h4>
 	<div>
+		<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
@@ -62,6 +61,9 @@
 	<h4>Others</h4>
 	<div>
 		<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+		<img src="https://img.shields.io/badge/AfterEffect-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 	</div>
 	<br>
 </div>
