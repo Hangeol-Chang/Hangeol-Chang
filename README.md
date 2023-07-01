@@ -28,7 +28,7 @@
 	<h3>My stack</h3>
 	<h4>Languages</h4>
  		<img src="https://img.shields.io/badge/JAVA-3a75b0?style=for-the-badge&logo=Java&logoColor=white"/>
-		<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=white"/>
+		<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 	<h4>Web</h4>
 	<div>
 		<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
