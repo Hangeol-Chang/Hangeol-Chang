@@ -28,29 +28,43 @@
 <div align="left">
 	<h3>My stack</h3>
 	<h4>Languages</h4>
+	<div>
 		<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- 		<img src="https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=Java&logoColor=white"/>
-		<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white"/>
-		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=python&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=Java&logoColor=white"/>
+		<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+		<br>
+	</div>
 	<h4>Web</h4>
 	<div>
+		<h5>Frontend</h5>
 		<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=coil&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-		<br>
-		<img src="https://img.shields.io/badge/Three-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-		<br>
 		<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white"/>
+		<br><br>
+		<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Three-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+		<br><br>
+		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+		<br><br>
+		<h5>Backend</h5>
 	</div>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
-    <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Unity&logoColor=white"/>
+	<h4>Management</h4>
+	<div>
+		<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+	</div>
+	<h4>Others</h4>
+	<div>
+		<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
+	</div>
+	<br>
 </div>
-
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang)
