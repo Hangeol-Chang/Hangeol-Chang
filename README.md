@@ -1,8 +1,20 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang&fontSize=60&fontAlign=30&fontAlignY=30&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang 🎨🎮🚘&fontSize=60&fontAlign=30&fontAlignY=30&fontColor=FFFFFF)
 
-<div align="center">
+<!--
+
+### Who Am I
+
+안녕하세요. 한걸입니다.
+
+#### background
+🕍 경희대학교 기계공학과
+🌌 SSAFY 7기 서울캠퍼스
+
+-->
+
+<div align="left">
     <h3>
         links
     </h3>
@@ -13,7 +25,7 @@
     <a href="https://steamcommunity.com/id/hgchang1/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"/></a>
 </div>
 
-<div align="center">
+<div align="left">
 <h3>
 	My stack
 </h3>
@@ -26,15 +38,6 @@
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white"/>
 </div>
-
-<!--
-
-### Who Am I
-
-안녕하세요. 한걸입니다.
-
--->
-
 
 
 
