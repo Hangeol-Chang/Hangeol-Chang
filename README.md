@@ -8,9 +8,8 @@
 안녕하세요. 한걸입니다.
 
 #### background
-🕍 경희대학교 기계공학과
-<br>
-🌌 SSAFY 7기 서울캠퍼스
+- 🕍 경희대학교 기계공학과
+- 🌌 SSAFY 7기 서울캠퍼스
 
 
 ----
@@ -71,6 +70,7 @@
 ----
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hangeol-Chang&theme=nord_dark)
 
 
 
