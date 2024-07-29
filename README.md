@@ -14,8 +14,8 @@
 
 ----
 
-<div align="left">
-	<h2>🎞links🎞</h2>
+<div align="center">
+	<h2>🎞  links  🎞</h2>
     	<a href="https://www.youtube.com/channel/UCFHxE7grCP07kWQqkZYuf9A" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
     	<a href="https://hangeol-chang.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-009DB1?style=for-the-badge&logo=planet&logoColor=white"/></a>
 	<a href="https://hihangoel.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
@@ -25,9 +25,9 @@
     	<a href="https://www.instagram.com/hihangeol/" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 
-<div align="left">
-	<h2>📚My stack📚</h2>
-	<h3>📟Languages📟</h3>
+<div align="center">
+	<h2>📚  My stack  📚</h2>
+	<h3>📟  Languages  📟</h3>
 	<div>
 		<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 		<img src="https://img.shields.io/badge/C_Sharp-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -37,7 +37,7 @@
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 		<br><br>
 	</div>
-	<h3>⚒Frameworks & Engine🛠</h3>
+	<h3>⚒  Frameworks & Engine  🛠</h3>
 	<div>
 		<img src="https://img.shields.io/badge/Vulkan-A41E22?style=for-the-badge&logo=vulkan&logoColor=white"/>
 		<br>
@@ -45,7 +45,7 @@
 		<img src="https://img.shields.io/badge/Unreal_engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 		<br><br>
 	</div>
-	<h3>📫Web📭</h3>
+	<h3>📫  Web  📭</h3>
 	<div>
 		<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 		<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
@@ -58,7 +58,7 @@
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 		<br><br>
 	</div>
-	<h3>🤝Collaboration Tool🤝</h3>
+	<h3>🤝  Collaboration Tool  🤝</h3>
 	<div>
 		<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/>
@@ -72,16 +72,16 @@
 <!-- 		<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/> -->
 		<br><br>
 	</div>
-	<h3>📄Others📑</h3>
+	<h3>📄  Others  📑</h3>
 	<div>
-		<h4>🖌graphics🖋</h4>
+		<h4>🖌  graphics  🖋</h4>
   		<div>
 			<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 			<img src="https://img.shields.io/badge/AfterEffect-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 			<br>
     		</div>
-  		<h4>📦3d📦</h4>
+  		<h4>📦  3d  📦</h4>
     		<div>
 			<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
 			<br>
@@ -90,7 +90,7 @@
 	</div>
 	<br>
 	<hr>
- 	<h3>⏲once used⏲</h3>
+ 	<h3>⏲  once used  ⏲</h3>
 	<div>
 		<img src="https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=Java&logoColor=white"/>
 		<br>
@@ -101,33 +101,19 @@
 
 ----
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang&column=8)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hangeol-Chang&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hangeol-Chang&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hangeol-Chang&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hangeol-Chang&theme=nord_dark)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1)](https://solved.ac/hgchang1/)
-
+<br>
+![hgchang1's github stats](https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true&theme=nord)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hangeol-Chang&theme=nord_dark)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1)](https://solved.ac/hgchang1/)
 
 <!--
-![Hangeol-Chang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangeol-Chang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
-![hgchang1's github stats](https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hangeol-Chang&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hangeol-Chang&theme=nord_dark)
+-->
+<!--
+![Hangeol-Chang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangeol-Chang&show_icons=true&hide_border=true&title_color=386&icon_color=004386&layout=compact)
 -->
 
 
-
-
-
- 
-
-<!--
-**Hangeol-Chang/Hangeol-Chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
