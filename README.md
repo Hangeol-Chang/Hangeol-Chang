@@ -100,13 +100,29 @@
 </div>
 
 ----
-![trophy](https://github-profile-trophy.vercel.app/?username=Hangeol-Chang&column=8)
+<p align="center">
+    <a href="https://solved.ac/profile/hgchang1">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1">
+    </a>
+</p>
+<br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hangeol-Chang&theme=nord_dark)
+<!--
+<p align="center">
+	<a href="https://github-profile-trophy.vercel.app">
+		<img src="https://github-profile-trophy.vercel.app/?username=Hangeol-Chang&column=8" width="80%" />
+	</a>
+</p>
+-->
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hangeol-Chang&theme=nord_dark" width="82%" />
+</p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true&theme=nord" width="48%" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hangeol-Chang&theme=nord_dark" width="34%" />
+</p>
 <br>
-![hgchang1's github stats](https://github-readme-stats.vercel.app/api?username=Hangeol-Chang&show_icons=true&theme=nord)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hangeol-Chang&theme=nord_dark)
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgchang1)](https://solved.ac/hgchang1/)
 
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hangeol-Chang&theme=nord_dark)
