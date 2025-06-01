@@ -3,14 +3,43 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang🎨🎮🚘&fontSize=60&fontAlign=45&fontAlignY=25&fontColor=FFFFFF)
 
 
-### Who Am I
+## Who Am I
 
 안녕하세요. 한걸입니다.
 
-#### background
+### background
 - 🕍 2016.03 ~ 2022.02	| 경희대학교 기계공학과
 - 🌌 2022.01 ~ 2022.09	| SSAFY 7기 서울캠퍼스
 - 🚗 2022.09 ~ xxxx.xx	| embeded sw research engineer
+
+### projects
+#### ~ 2021
+| Project Name(repo) | Brief desc. | Tech stack | Period | role | Demo/repo |
+|---|-----|---|---|----|--|
+| [Lucid](https://github.com/Hangeol-Chang/Lucid) | 메이플스토리 팬게임 | Unity | 2020.05 ~ 2020.11 | 개인 | |
+| [Burn Protection for infants](https://github.com/Hangeol-Chang/Burn_preventation_solution_for_infants) | 영유아를 위한 화상방지 시스템 | Arduino, i2c | 2020.09 ~ 2021.06 | 팀, SW | |
+| [Hexxagon](https://github.com/Hangeol-Chang/Hexxagon) | Hexagon 땅따먹기 보드게임 | Unity | 2021.03 ~ 2021.07 | 개인 | |
+
+#### 2022 ~ 2023
+| Project Name(repo) | Brief desc. | Tech stack | Period | role | Demo/repo |
+|---|-----|---|---|----|--|
+| [SSAFIT](https://github.com/Hangeol-Chang/ssafit-front) | SSAFY 7기 과제 프로젝트 | Vue, Springboot | 2022.05 ~ 2022.05 | 팀, Fullstack | |
+| [InfoMansion](https://github.com/InfoMansion/InfoMansion) | 나만의 방을 꾸미는 블로그 | React, Springboot | 2022.07 ~ 2022.09 | 팀, FE | |
+| [MapUtils](https://github.com/Hangeol-Chang/maputils) | 지도 위 경로 표시 툴 | Next.js | 2023.02 ~ 2023.5 | 개인 | [배포](https://hangeol-chang.github.io/maputils/pathDrawer/naver/) |
+
+#### 2024
+| Project Name(repo) | Brief desc. | Tech stack | Period | role | Demo/repo |
+|---|-----|---|---|----|--|
+| [Han Lang](https://github.com/Hangeol-Chang/han-lang) | 한국어 코딩언어 | Next.js | 2023.11 ~ paused | 개인 | |
+| [Flipdot](https://github.com/Hangeol-Chang/flipdot) | flip-dot display를 svg화 하여 Github의 Readme에서 사용 | Next.js | 2024.07 ~ paused | 개인 | [배포](https://flipdots.vercel.app) |
+| [Studio Pianolife](https://github.com/Hangeol-Chang/studio-pianolife) | '공피라의 피아노 라이프' 공식 사이트 | Next.js | 2024.11 ~ maintaining | 개인 | |
+
+#### 2025
+| Project Name(repo) | Brief desc. | Tech stack | Period | role | Demo/repo |
+|---|-----|---|---|----|--|
+| [CSV all-in-one](https://github.com/Hangeol-Chang/obsidian-csv-allinone) | obsidian plugin | js | 2025.01 ~ maintaining | 개인 | [다운링크](https://obsidian.md/plugins?search=csv%20all-in-one) |
+| [Tiny Virtual Avata](https://github.com/Hangeol-Chang/tiny-virtual-avata) | 웹캠을 이용한 간단한 2d 버츄얼 메이킹 | Unity | 2025.06 ~ | 개인 | |
+| [Tiled Dungoen](https://github.com/Hangeol-Chang/Tiled_Dungeon) | 모바일을 위한 원터치 로그라이크 게임 | Unity | ?? | 개인 | |
 
 ----
 
