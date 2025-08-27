@@ -1,8 +1,9 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang🎨🎮🚘&fontSize=60&fontAlign=45&fontAlignY=25&fontColor=FFFFFF)
+![Flip Dot Display](https://flipdots.vercel.app/api/svg?text=HANGEOL-CHANG%21&style=basic&dotSize=20&spacing=2&animationMode=static)
 
-![Flip Dot Display](https://flipdots.vercel.app/api/svg?text=HELLO_WORLD%21&style=basic&dotSize=20&spacing=2&animationMode=static)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang🎨🎮🚘&fontSize=60&fontAlign=45&fontAlignY=25&fontColor=FFFFFF) -->
+
 
 ## Who Am I
 
