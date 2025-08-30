@@ -37,7 +37,7 @@
 | Project Name(repo) | Brief desc. | Tech stack | Period | role | Demo/repo |
 |---|-----|---|---|----|--|
 | [Han Lang](https://github.com/Hangeol-Chang/han-lang) | 한국어 코딩언어 | Next.js | 2023.11 ~ paused | 개인 | |
-| [Flipdot](https://github.com/Hangeol-Chang/flipdot) | flip-dot display를 svg화 하여 Github의 Readme에서 사용 | Next.js | 2024.07 ~ paused | 개인 | [배포](https://flipdots.vercel.app) |
+| [Flipdot](https://github.com/Hangeol-Chang/flipdot) | flip-dot display를 svg화 하여 Github의 Readme에서 사용 | Next.js | 2024.07 ~ maintaining | 개인 | [배포](https://flipdots.vercel.app) |
 | [Studio Pianolife](https://github.com/Hangeol-Chang/studio-pianolife) | '공피라의 피아노 라이프' 공식 사이트 | Next.js | 2024.11 ~ maintaining | 개인 | [배포](https://studio-pianolife.vercel.app) |
 
 #### 2025
