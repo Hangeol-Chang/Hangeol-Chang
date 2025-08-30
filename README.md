@@ -1,6 +1,6 @@
 
 <div align="center">
-	<a href="https://github.com/Hangeol-Chang/flipdot"><img src="https://flipdots.vercel.app/api/svg?text=HANGEOL-CHANG%21&style=basic&dotSize=20&spacing=2&animationMode=static" /></a>
+	<a href="https://github.com/Hangeol-Chang/flipdot"><img src="https://flipdots.vercel.app/api/svg?text=HANGEOL%250%250CHANG&style=dark&dotSize=20&spacing=2&animationMode=sequential&justify=center" /></a>
 
 </div>
 
