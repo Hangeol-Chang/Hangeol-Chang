@@ -49,7 +49,7 @@
 
 ----
 
-<div align="center">
+<!-- <div align="center">
 	<h2>🎞  links  🎞</h2>
     	<a href="https://www.youtube.com/channel/UCFHxE7grCP07kWQqkZYuf9A" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
     	<a href="https://hangeol-chang.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-009DB1?style=for-the-badge&logo=planet&logoColor=white"/></a>
@@ -58,7 +58,7 @@
 	<br>
     	<a href="https://steamcommunity.com/id/hgchang1/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"/></a>
     	<a href="https://www.instagram.com/hihangeol/" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</div>
+</div> -->
 
 <div align="center">
 	<h2>📚  My stack  📚</h2>
@@ -84,27 +84,11 @@
 	<div>
 		<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 		<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=coil&logoColor=white"/>
-		<br>
-		<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-		<img src="https://img.shields.io/badge/React_Spring-000000?style=for-the-badge&logo=spring_creators&logoColor=white"/>
-		<br><br>
-		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-		<br><br>
 	</div>
 	<h3>🤝  Collaboration Tool  🤝</h3>
 	<div>
 		<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/>
-		<br><br>
-	</div>
-	<h3>⚙Management⚙</h3>
-	<div>
-		<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-<!-- 		<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/> -->
 		<br><br>
 	</div>
 	<h3>📄  Others  📑</h3>
@@ -114,24 +98,9 @@
 			<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 			<img src="https://img.shields.io/badge/AfterEffect-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-			<br>
-    		</div>
-  		<h4>📦  3d  📦</h4>
-    		<div>
 			<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-			<br>
-      		</div>
-  		<br>
-	</div>
+		</div>
 	<br>
-	<hr>
- 	<h3>⏲  once used  ⏲</h3>
-	<div>
-		<img src="https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=Java&logoColor=white"/>
-		<br>
-		<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white"/>
-	</div>
 </div>
 
 ----
