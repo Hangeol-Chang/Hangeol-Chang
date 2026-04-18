@@ -6,6 +6,10 @@
 	<a href="https://github.com/Hangeol-Chang/flipdot"><img src="https://flipdots.vercel.app/api/svg?text=HANGEOL_CHANG&style=dark&dotSize=20&spacing=2&animationMode=sequential&justify=center" /></a>
 </div>
 
+<div align="center">
+	<a href="https://github.com/Hangeol-Chang/flipdot"><img src="https://flipdots.vercel.app/api/svg?text=SHINOH_JUNG&style=dark&dotSize=20&spacing=2&animationMode=sequential&justify=center" /></a>
+</div>
+
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:13678A,50:45C4B0,70:9AEBA3,90:DAFDBA&height=250&section=header&text=Hangeol-Chang🎨🎮🚘&fontSize=60&fontAlign=45&fontAlignY=25&fontColor=FFFFFF) -->
 
 
