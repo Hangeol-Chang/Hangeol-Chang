@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://github.com/Hangeol-Chang/flipdot"><img src="https://flipdots.vercel.app/api/svg?column=41&customdots=104,088,1fc,376,7ff,5fd,505,0d8%2C&style=light&dotSize=20&spacing=2&animationMode=scroll&dotOn=28f028&dotOff=f0f0f0&background=FFFFFF" /></a>
+	<a href="https://github.com/Hangeol-Chang/flipdot"><img src="https://flipdots.vercel.app/api/svg?column=41&customdots=104,088,1fc,376,7ff,5fd,505,0d8%2C&style=light&dotSize=20&spacing=2&animationMode=scroll&dotOn=28f028&dotOff=f0f0f0&background=FFFFFF&v=1" /></a>
 </div>
 
 <div align="center">
